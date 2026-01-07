@@ -1,0 +1,15 @@
+pandas
+streamlit
+matplotlib
+plotly
+streamlit-kpi
+streamlit_nested_layout
+seaborn
+scikit-learn
+scipy
+shap
+reportlab
+openpyxl
+pytest
+sqlalchemy
+joblib
